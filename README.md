@@ -1,4 +1,4 @@
 # vim-config
 my vim config
-- put cfg directory under ~/.vim
+- put all files under ~/.vim
 - run "ln -s ~/.vim/.vimrc .vimrc" under ~
