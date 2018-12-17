@@ -13,3 +13,9 @@ set ruler
 "set cinoptions={0,1s,t0,n-2,p2s,(03s,=.5s,>1s,=1s,:1s
 set sw=4
 
+let mapleader = ","
+map <Leader>p <Esc>:tabp<CR>
+map <Leader>n <Esc>:tabn<CR>
+map <Leader>tt <Esc>:tabnew<CR>
+map <Leader>tr <Esc>:NERDTree<CR>
+
